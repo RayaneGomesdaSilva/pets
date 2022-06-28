@@ -1,0 +1,189 @@
+.cor-de-fundo{
+    background-color: rgb(194, 241, 243);
+}
+.Animals{
+    color: black;
+    font-size: 3vh;
+    font-family: Impact;
+    position: relative;
+    text-align: left;
+    left: 7%;
+}
+#img-logo{
+    height: 75px;
+    top:0%;
+    left:2%;
+    position: absolute;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 2280px;
+    margin: 0 auto;
+    padding:0 2%;
+}
+header{
+    padding: 15px 0;
+    background-color: rgb(119, 219, 214);
+
+}
+.logo{
+    width: 50%;
+
+}
+.menu{
+    width: 50%;
+    text-align: right;
+
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    margin-right: 18px;
+}
+#menu-texto{
+    list-style: none;
+    padding: 0;
+    background-color: black;
+}
+#menu-texto a{
+    display: inline;
+}
+.texto-sobre{
+    margin-top: 50px;
+}
+.texto-sobre h1{
+    top:13%;
+    position: absolute;
+    font-size: 50px;
+}
+.texto-sobre h2{
+    top:45%;
+    position: absolute;
+    font-size: 25px;
+}
+.texto-sobre h3{
+    top:80%;
+    position: absolute;
+    font-size: 25px;
+}
+.texto-sobre h4{
+    top: 111%;
+    position: absolute;
+    font-size: 25px;
+}
+.texto-sobre h5{
+    top:142%;
+    position: absolute;
+    font-size: 25px;
+}
+.texto-sobre h6{
+    top:172%;
+    position: absolute;
+    font-size: 25px;
+}
+.t1{
+    top: 23%;
+    position: absolute;
+    font-size: 25px;
+}
+.t2{
+    top: 50%;
+    position: absolute;
+    font-size: 25px;
+}
+.t3{
+    top: 85%;
+    position: absolute;
+    font-size: 25px;
+}
+.t4{
+    top: 116%;
+    position: absolute;
+    font-size: 25px;
+}
+.t5{
+    position: absolute;
+    top:147%;
+    font-size: 25px;
+}
+.t6{
+    top:178%;
+    position: absolute;
+    font-size: 25px;
+}
+#cao{
+    height: 29%;
+    right: 6%;
+    position: absolute;
+    top: 45%;
+}
+#gato{
+    height: 25%;
+    right: 6%;
+    position: absolute;
+    top: 80%;
+}
+#rato{
+    height: 25%;
+    right: 6%;
+    position: absolute;
+    top: 110%;
+}
+#coelho{
+    height: 25%;
+    right: 6%;
+    position: absolute;
+    top: 140%;
+}
+#papagaio{
+    height: 25%;
+    right: 6%;
+    position: absolute;
+    top: 170%;
+}
+
+.menu curiosidades{
+    top:13%;
+    position: absolute;
+    font-size: 50px;
+}
+.rodape h7{
+    top: 1550px;
+    position: absolute;
+    font-size: 25px;
+}
+.t7{
+    top: 1580px;
+    position: absolute;
+    font-size: 23px;
+}
+.rodape h8{
+    top: 1700px;
+    position: absolute;
+    font-size: 25px;
+}
+#f{
+    height: 25%;
+    right: 85%;
+    position: absolute;
+    top: 1760px;
+}
+#i{
+    height: 25%;
+    right: 65%;
+    position: absolute;
+    top: 1760px;
+}
+#t{
+    height: 25%;
+    right: 45%;
+    position: absolute;
+    top: 1760px;
+}
